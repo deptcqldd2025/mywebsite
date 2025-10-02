@@ -1,0 +1,7 @@
+{
+  "name": "Kiem tra hinh anh an toan",
+  "description": "An application that uses a camera or uploaded image to analyze a worker's attire for compliance with safety standards, including helmet, suit, and shoes, using Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
